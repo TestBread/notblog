@@ -1,0 +1,8 @@
+{
+    "posts": [
+        {
+            "filename": "hello-world.md",
+            "tags": ["introduction", "blog", "github", "hello-world"]
+        }
+    ]
+}
