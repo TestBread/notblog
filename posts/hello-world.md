@@ -2,6 +2,8 @@
 
 This is the first article in my test blog.
 
+![hewwoo](https://raw.githubusercontent.com/TestBread/notblog/master/media/images/chenwave.gif)
+
 ## What?
 
 This is a prototype for a GitHub-based blog which I'm using to develop my website, http://t0ast.cc.
